@@ -318,10 +318,10 @@ function displayCharts(){
             },
             layout: {
                 padding: {
-                left: 30,
-                right: 0,
-                top: 14,
-                bottom: 14
+                left: 10,
+                right: 10,
+                top: 12,
+                bottom: 12
              }
            }
 
